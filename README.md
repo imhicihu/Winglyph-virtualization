@@ -6,7 +6,6 @@ Virtualization of Winglyph (deprecated) on brand new operating systems, mainly W
 
 * Virtualization of Winglyph on recent operating systemsQuick summary
 * 1.0
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
 
