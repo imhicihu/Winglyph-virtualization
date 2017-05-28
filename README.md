@@ -4,7 +4,7 @@ Virtualization of Winglyph (deprecated) on brand new operating systems, mainly W
 
 ### What is this repository for? ###
 
-* Virtualization of Winglyph on recent operating systemsQuick summary
+* Virtualization of Winglyph on recent operating systems
 * 1.0
 
 ### How do I get set up? ###
