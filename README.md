@@ -10,10 +10,10 @@ Virtualization of Winglyph (deprecated) on brand new operating systems, mainly W
 ## Requirements: ##
 ### Operating systems: ###
 * Windows 98 16 bits-32 bits
-* Windows 98 Second Edition 16 bits-32 bits
-* Windows XP 32 bits-64 bits
-* Windows Vista 32 bits-64 bits
-* Windows 7 32 bits-64 bits
+* Windows 98 Second Edition 16/32 bits
+* Windows XP 32/64 bits
+* Windows Vista 32/64 bits
+* Windows 7 32/64 bits
 * Windows 8 64 bits (Professional, Enterprise version)
 * Windows 8.1 64 bits (Professional, Enterprise version)
 * Windows 10 64 bits (Education, Professional, Enterprise version)
