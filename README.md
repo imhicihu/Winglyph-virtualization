@@ -2,12 +2,13 @@
 
 Virtualization of Winglyph (deprecated) on brand new operating systems, mainly Windows OS's.
 
-### What is this repository for? ###
+## What is this repository for? ##
 
 * Virtualization of Winglyph on recent operating systems
-* 1.0
+* 1.1
 
-## Requirements: ##
+### Requirements: ###
+
 ### Operating systems: ###
 * Windows 98 16 bits-32 bits
 * Windows 98 Second Edition 16/32 bits
@@ -17,6 +18,7 @@ Virtualization of Winglyph (deprecated) on brand new operating systems, mainly W
 * Windows 8 64 bits (Professional, Enterprise version)
 * Windows 8.1 64 bits (Professional, Enterprise version)
 * Windows 10 64 bits (Education, Professional, Enterprise version)
+
 ###Software [dependencies](http://www.ibm.com/support/knowledgecenter/SS2GNX_5.1.1/com.ibm.tivoli.tpm.sft.doc/software/csfm_reqcap.html):###
 * [SecurAble](https://www.grc.com/securable.htm)
 * [Hardware-assisted virtualization detection tool](https://www.microsoft.com/en-us/download/details.aspx?id=592)
@@ -27,20 +29,25 @@ Virtualization of Winglyph (deprecated) on brand new operating systems, mainly W
 * Winglyph
 * [Rufus](https://rufus.akeo.ie/#ref2)
 
-###Procedures - checklist###
+### Procedures - checklist ###
 * Install [SecurAble](https://www.grc.com/securable.htm). Run it. Verify that your processor provides virtualization functions. 
 * Install [Hardware-assisted virtualization detection tool](https://www.microsoft.com/en-us/download/details.aspx?id=592). Verify that your operating system meets the mandatory [needed](https://bitbucket.org/imhicihu/virtualization-winglyph/issues/13/software-workflow-hardware-assisted). Run it. Test that your processor provides virtualization features. 
 * Plus, install this utilities to analyze the *architecture / possibilities* of virtualization: 
-    * for [Intel](https://downloadcenter.intel.com/download/7838) processors 
-    * for [AMD](http://download.amd.com/techdownloads/AMD-V_Hyper-V_Compatibility_Check_Utility.zip) processors, .
+    - for [Intel](https://downloadcenter.intel.com/download/7838) processors 
+    - for [AMD](http://download.amd.com/techdownloads/AMD-V_Hyper-V_Compatibility_Check_Utility.zip) processors, .
 * Once verified that your processor provides virtualization features: 
-    * If `Yes`, go on. 
-    * If `No`, your pc / notebook hardware is *too* old for virtualization modes.
+    - If `Yes`, go on. 
+    - If `No`, your pc / notebook hardware is *too* old for virtualization modes.
 * Enable on BIOS system the virtualization feature (on Intel it's called *HyperV* and in AMD processors: *AMD-V*); at boot time, press [usually](https://www.lifewire.com/bios-setup-utility-access-keys-for-popular-motherboards-2624462) `Del` or `F2` to access the [BIOS](http://www.pcworld.com/article/241032/how_to_enter_your_pcs_bios.html). `F10` saves this changes.
-![11.png](https://bitbucket.org/repo/5XLMqG/images/1831756942-11.png)
+
+![screen_capture.png](https://bitbucket.org/repo/ekyaeEE/images/4279029375-screen_capture.png)
+
 ![5x3YW.png](https://bitbucket.org/repo/5XLMqG/images/2720944956-5x3YW.png)
+
 ![6116.HVW8a.jpg](https://bitbucket.org/repo/5XLMqG/images/440014298-6116.HVW8a.jpg)
+
 ![enable-vt-x-in-bios-2.jpg](https://bitbucket.org/repo/5XLMqG/images/2709404342-enable-vt-x-in-bios-2.jpg)
+
 * Install [Rufus](https://rufus.akeo.ie/#ref2) in case of a mandatory installation of a bootable operating system in a USB disk drive.
 * Install a printer driver, even a virtual one (ie: PDF Writer). This is to avoid further and subsequent error messages.
 * Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads). Plus, install the VirtualBox 5.1.18 Oracle VM [VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads).
