@@ -41,8 +41,7 @@ Virtualization of Winglyph (deprecated) on brand new operating systems, mainly W
 * Enable on BIOS system the virtualization feature (on Intel it's called *HyperV* and in AMD processors: *AMD-V*); at boot time, press [usually](https://www.lifewire.com/bios-setup-utility-access-keys-for-popular-motherboards-2624462) `Del` or `F2` to access the [BIOS](http://www.pcworld.com/article/241032/how_to_enter_your_pcs_bios.html). `F10` saves this changes.
 
 ![screen_capture.png](https://bitbucket.org/repo/ekyaeEE/images/4279029375-screen_capture.png)
-
-![5x3YW.png](https://bitbucket.org/repo/5XLMqG/images/2720944956-5x3YW.png)
+![blue-screen.png](https://bitbucket.org/repo/ekyaeEE/images/3041964421-blue-screen.png)
 
 ![6116.HVW8a.jpg](https://bitbucket.org/repo/5XLMqG/images/440014298-6116.HVW8a.jpg)
 
