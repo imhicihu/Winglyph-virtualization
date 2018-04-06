@@ -44,8 +44,9 @@ Virtualization of Winglyph (deprecated) on brand new operating systems, mainly W
 ![blue-screen.png](https://bitbucket.org/repo/ekyaeEE/images/3041964421-blue-screen.png)
 ![virtualization.png](https://bitbucket.org/repo/ekyaeEE/images/1477597896-virtualization.png)
 ![enable-vt-x-in-bios-2.png](https://bitbucket.org/repo/ekyaeEE/images/2769097956-enable-vt-x-in-bios-2.png)
+
 * Install [Rufus](https://rufus.akeo.ie/#ref2) in case of a mandatory installation of a bootable operating system in a USB disk drive.
-* Install a printer driver, even a virtual one (ie: PDF Writer). This is to avoid further and subsequent error messages.
+* Install a printer driver, even a [virtual](https://en.wikipedia.org/wiki/List_of_virtual_printer_software) one (ie: PDF Writer). This is to avoid further and subsequent error messages.
 * Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads). Plus, install the VirtualBox 5.1.18 Oracle VM [VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads).
 * If your operating system is Windows 7, run VirtualBox. Create a [virtual machine](https://bitbucket.org/imhicihu/virtualization-winglyph/issues/24/workflow-software-creation-and). Then install Winglyph.
 * If your operating system is Windows 8, verify that [your version is compatible](https://bitbucket.org/imhicihu/virtualization-winglyph/issues/22/software-workflow-operating-systems) with Hyper-V. If `Yes`, enable Hyper-V. Then [create a virtual machine](https://bitbucket.org/imhicihu/virtualization-winglyph/issues/23/workflow-creation-of-a-virtual-machine). Inside of it, install [Windows XP](https://bitbucket.org/imhicihu/virtualization-winglyph/issues/6/workflow-deprecated-windows-xp-testing). Then install Winglyph.
