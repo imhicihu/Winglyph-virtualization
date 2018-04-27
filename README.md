@@ -1,6 +1,8 @@
 # Rationale #
 
-Virtualization of Winglyph (deprecated) on brand new operating systems, mainly Windows OS's.
+Virtualization of Winglyph ([deprecated](https://en.wikipedia.org/wiki/Deprecation)) on recent operating systems, mainly Windows OS's.
+In behalf of trueness, firstly the virtualization was done on a Macbook. 
+Then, it was ported to the Windows ecosystem.
 
 ## What is this repository for? ##
 
