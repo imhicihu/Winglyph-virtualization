@@ -9,7 +9,7 @@ Then, it was ported to the Windows ecosystem.
 * Virtualization of Winglyph on recent operating systems
 * 1.1
 
-### Requirements: ###
+## Requirements: ##
 
 ### Operating systems: ###
 * Windows 98 16 bits-32 bits
