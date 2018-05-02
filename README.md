@@ -41,12 +41,10 @@ Then, it was ported to the Windows ecosystem.
     - If `Yes`, go on. 
     - If `No`, your pc / notebook hardware is *too* old for virtualization modes.
 * Enable on BIOS system the virtualization feature (on Intel it's called *HyperV* and in AMD processors: *AMD-V*); at boot time, press [usually](https://www.lifewire.com/bios-setup-utility-access-keys-for-popular-motherboards-2624462) `Del` or `F2` to access the [BIOS](http://www.pcworld.com/article/241032/how_to_enter_your_pcs_bios.html). `F10` saves this changes.
-
 ![screen_capture.png](https://bitbucket.org/repo/ekyaeEE/images/4279029375-screen_capture.png)
 ![blue-screen.png](https://bitbucket.org/repo/ekyaeEE/images/3041964421-blue-screen.png)
 ![virtualization.png](https://bitbucket.org/repo/ekyaeEE/images/1477597896-virtualization.png)
 ![enable-vt-x-in-bios-2.png](https://bitbucket.org/repo/ekyaeEE/images/2769097956-enable-vt-x-in-bios-2.png)
-
 * Install [Rufus](https://rufus.akeo.ie/#ref2) in case of a mandatory installation of a bootable operating system in a USB disk drive.
 * Install a printer driver, even a [virtual](https://en.wikipedia.org/wiki/List_of_virtual_printer_software) one (ie: PDF Writer). This is to avoid further and subsequent error messages.
 * Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads). Plus, install the VirtualBox 5.1.18 Oracle VM [VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads).
