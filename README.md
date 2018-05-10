@@ -32,6 +32,10 @@ Then, it was ported to the Windows ecosystem.
 * Winglyph
 * [Rufus](https://rufus.akeo.ie/#ref2)
 
+
+### Legal ###
+
+* All trademarks are the property of their respective owners.
 ### Procedures - checklist ###
 * Install [SecurAble](https://www.grc.com/securable.htm). Run it. Verify that your processor provides virtualization functions. 
 * Install [Hardware-assisted virtualization detection tool](https://www.microsoft.com/en-us/download/details.aspx?id=592). Verify that your operating system meets the mandatory [needed](https://bitbucket.org/imhicihu/virtualization-winglyph/issues/13/software-workflow-hardware-assisted). Run it. Test that your processor provides virtualization features. 
