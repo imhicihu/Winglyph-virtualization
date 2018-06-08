@@ -55,6 +55,10 @@ Then, it was ported to the Windows ecosystem.
 * If your operating system is Windows 10, verify that [your version is compatible](https://bitbucket.org/imhicihu/winglyph-virtualization/issues/22/software-workflow-operating-systems) with Hyper-V. If `Yes`, enable Hyper-V. Then [create a virtual machine](https://bitbucket.org/imhicihu/virtualization-winglyph/issues/23/workflow-creation-of-a-virtual-machine). Inside of it, install [Windows XP](https://bitbucket.org/imhicihu/virtualization-winglyph/issues/6/workflow-deprecated-windows-xp-testing). Then install Winglyph.
 ![windows10-virtualized.png](https://bitbucket.org/repo/ekyaeEE/images/1502602213-windows10-virtualized.png)
 
+### Changelog ###
+
+* Please check the [Commits](https://bitbucket.org/imhicihu/winglyph-virtualization/commits/all) section for the current status
+
 ### Legal ###
 
 * All trademarks are the property of their respective owners.
