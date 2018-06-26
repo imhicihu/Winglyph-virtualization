@@ -7,7 +7,7 @@ Then, it was ported to the Windows ecosystem.
 ## What is this repository for? ##
 
 * Virtualization of Winglyph on recent operating systems
-* 1.1
+* Version 1.1
 
 ## Requirements: ##
 
