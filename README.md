@@ -1,3 +1,5 @@
+![stability-wip](https://img.shields.io/badge/status%3A%20-archived-orange.svg)
+
 # Rationale #
 
 Virtualization of Winglyph ([deprecated](https://en.wikipedia.org/wiki/Deprecation)) on recent operating systems, mainly Windows OS's.
