@@ -30,7 +30,7 @@ Then, it was ported to the Windows ecosystem.
 * [AMD Virtualization™ Technology and Microsoft® Hyper-V™ System Compatibility Check Utility](http://download.amd.com/techdownloads/AMD-VwithRVI_Hyper-V_CompatibilityUtility.zip)
 * [Windows XP Mode](https://www.microsoft.com/es-ar/download/details.aspx?id=8002)
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-* [VirtualBox VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
+* [VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
 * Winglyph
 * [Rufus](https://rufus.akeo.ie/#ref2)
 
