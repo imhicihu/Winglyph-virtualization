@@ -1,4 +1,5 @@
-![stability-wip](https://img.shields.io/badge/status%3A%20-archived-orange.svg)
+![stability-wip](https://bitbucket.org/repo/ekyaeEE/images/3278295154-status_archived.png)
+![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
 
 # Rationale #
 
