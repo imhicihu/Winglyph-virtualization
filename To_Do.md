@@ -1,1 +1,1 @@
-* Add Legal section to `Readme`
+* ~~Add Legal section to `Readme.md`~~
