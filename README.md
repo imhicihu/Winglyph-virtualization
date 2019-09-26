@@ -3,9 +3,10 @@
 
 # Rationale #
 
-Virtualization of Winglyph ([deprecated](https://en.wikipedia.org/wiki/Deprecation)) on recent operating systems, mainly Windows OS's.
-In behalf of trueness, firstly the virtualization was done on a Macbook. 
-Then, it was ported to the Windows ecosystem.
+* Virtualization of Winglyph ([deprecated](https://en.wikipedia.org/wiki/Deprecation)) on recent operating systems, mainly Windows OS's.
+* In behalf of trueness, firstly the virtualization was done on a Macbook. 
+* Then, it was ported to the Windows ecosystem.
+* This repo is a living document that will grow and adapt over time
 
 ## What is this repository for? ##
 
@@ -15,6 +16,7 @@ Then, it was ported to the Windows ecosystem.
 ## Requirements: ##
 
 ### Operating systems: ###
+
 * Windows 98 16 bits-32 bits
 * Windows 98 Second Edition 16/32 bits
 * Windows XP 32/64 bits
@@ -24,7 +26,8 @@ Then, it was ported to the Windows ecosystem.
 * Windows 8.1 64 bits (Professional, Enterprise version)
 * Windows 10 64 bits (Education, Professional, Enterprise version)
 
-###Software [dependencies](http://www.ibm.com/support/knowledgecenter/SS2GNX_5.1.1/com.ibm.tivoli.tpm.sft.doc/software/csfm_reqcap.html):###
+### Software [dependencies](http://www.ibm.com/support/knowledgecenter/SS2GNX_5.1.1/com.ibm.tivoli.tpm.sft.doc/software/csfm_reqcap.html): ###
+
 * [SecurAble](https://www.grc.com/securable.htm)
 * [Hardware-assisted virtualization detection tool](https://www.microsoft.com/en-us/download/details.aspx?id=592)
 * [Intel® Processor Identification Utility](https://downloadcenter.intel.com/download/7838)
