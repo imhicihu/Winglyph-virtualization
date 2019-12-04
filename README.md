@@ -5,7 +5,7 @@
 
 * Virtualization of Winglyph ([deprecated](https://en.wikipedia.org/wiki/Deprecation)) on recent operating systems, mainly Windows OS's.
 * In behalf of trueness, firstly the virtualization was done on a Macbook. 
-* Then, it was ported to the Windows ecosystem.
+* Then, it was ported to the Windows ecosystem. _Update to 2019 December_: ported to a Ubuntu Linux partition with optimal results
 * This repo is a living document that will grow and adapt over time
 
 ## What is this repository for? ##
@@ -15,7 +15,7 @@
 
 ## Requirements: ##
 
-### Operating systems: ###
+### Operating systems: (tested at 2019 december)###
 
 * Windows 98 16 bits-32 bits
 * Windows 98 Second Edition 16/32 bits
@@ -25,6 +25,11 @@
 * Windows 8 64 bits (Professional, Enterprise version)
 * Windows 8.1 64 bits (Professional, Enterprise version)
 * Windows 10 64 bits (Education, Professional, Enterprise version)
+* Lubuntu 19.4 Disco Dingo
+* MacOSX High Sierra
+* MacOSX Sierra
+* MacOSX EL Capitan
+* MacOSX Yosemite
 
 ### Software [dependencies](http://www.ibm.com/support/knowledgecenter/SS2GNX_5.1.1/com.ibm.tivoli.tpm.sft.doc/software/csfm_reqcap.html): ###
 
@@ -68,6 +73,10 @@
 ### Copyright ###
 ![88x31.png](https://bitbucket.org/repo/4pKrXRd/images/3902704043-88x31.png)
 This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Generic License](http://creativecommons.org/licenses/by-sa/2.0/).
+
+### Code of Conduct
+
+* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/winglyph-virtualization/src/master/code_of_conduct.md)
 
 ### Legal ###
 
