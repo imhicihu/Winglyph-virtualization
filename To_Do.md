@@ -1,1 +1,0 @@
-* ~~Add Legal section to `Readme.md`~~
